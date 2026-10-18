@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 数据与输出（练习产物，不进版本库）
+*.db
+*.sqlite3
+*.csv
+*.jsonl
+failed.txt
+page.html
+data/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 密钥
+.env
+*.key
